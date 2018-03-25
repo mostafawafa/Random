@@ -10,7 +10,7 @@ class Random
      * 
      */
 
-    public $randNumbers = [];
+    protected $randNumbers = [];
 
 
     /**
